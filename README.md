@@ -4,7 +4,7 @@
 [![releases](https://img.shields.io/github/v/release/qwerty12/mpv-winbuild)](https://github.com/qwerty12/mpv-winbuild/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/qwerty12/mpv-winbuild/total)](https://github.com/qwerty12/mpv-winbuild/releases)
 
-Uses Github Actions to build mpv for Windows daily, thanks to https://github.com/zhongfly/mpv-winbuild/
+Uses Github Actions to build [mpv](https://github.com/mpv-player/mpv/) for Windows daily, thanks to https://github.com/zhongfly/mpv-winbuild/
 
 mpv is built from [my *fork* of shinchiro's mpv-winbuild-cmake](https://github.com/qwerty12/mpv-winbuild-cmake/). My [Scoop](https://scoop.sh/) bucket, [scoop-alts](https://github.com/qwerty12/scoop-alts), installs this version (x64-v3) of mpv.
 
@@ -134,6 +134,7 @@ same as [shinchiro](https://github.com/shinchiro/mpv-winbuild-cmake/blob/master/
     -   uavs3d [![uavs3d](https://flat.badgen.net/github/last-commit/uavs3/uavs3d?scale=0.8&cache=1800)](https://github.com/uavs3/uavs3d)
     -   davs2 [![davs2](https://flat.badgen.net/github/last-commit/pkuvcl/davs2?scale=0.8&cache=1800)](https://github.com/pkuvcl/davs2)
     -   libdovi [![libdovi](https://flat.badgen.net/github/last-commit/quietvoid/dovi_tool/main?style=flat-square)](https://github.com/quietvoid/dovi_tool)
+    -   libva [![libva](https://flat.badgen.net/github/last-commit/intel/libva?scale=0.8&cache=1800)](https://github.com/intel/libva)
     -   libzvbi [![libzvbi](https://flat.badgen.net/github/last-commit/zapping-vbi/zvbi/main?scale=0.8&cache=1800)](https://github.com/zapping-vbi/zvbi)
     -   rav1e [![rav1e](https://flat.badgen.net/github/last-commit/xiph/rav1e?scale=0.8&cache=1800)](https://github.com/xiph/rav1e)
     -   libaribcaption [![libaribcaption](https://flat.badgen.net/github/last-commit/xqq/libaribcaption?scale=0.8&cache=1800)](https://github.com/xqq/libaribcaption)
@@ -147,10 +148,10 @@ same as [shinchiro](https://github.com/shinchiro/mpv-winbuild-cmake/blob/master/
     -   [speex](https://ftp.osuosl.org/pub/xiph/releases/speex/) (1.2.1) ![](https://img.shields.io/github/v/release/xiph/speex?style=flat-square)
     -   [ogg](https://ftp.osuosl.org/pub/xiph/releases/ogg/) (1.3.5) ![](https://img.shields.io/github/v/release/xiph/ogg?style=flat-square)
     -   [lzo](https://fossies.org/linux/misc/) (2.10)
-    -   [libopenmpt](https://lib.openmpt.org/libopenmpt/download/) (0.6.9)
+    -   [libopenmpt](https://lib.openmpt.org/libopenmpt/download/) (0.7.2)
     -   [libiconv](https://ftp.gnu.org/pub/gnu/libiconv/) (1.17)
     -   [gmp](https://gmplib.org/download/gmp/) (6.2.1)
     -   [vapoursynth](https://github.com/vapoursynth/vapoursynth) (R63)  ![](https://img.shields.io/github/v/release/vapoursynth/vapoursynth?style=flat-square)
-    -   [libsdl2](https://www.libsdl.org/release/) (2.26.4)  ![](https://img.shields.io/github/v/release/libsdl-org/SDL?style=flat-square)
+    -   [libsdl2](https://www.libsdl.org/release/) (2.28.0)  ![](https://img.shields.io/github/v/release/libsdl-org/SDL?style=flat-square)
     -   [mbedtls](https://github.com/Mbed-TLS/mbedtls) (3.4.0) ![](https://img.shields.io/github/v/release/Mbed-TLS/mbedtls?style=flat-square)
 
